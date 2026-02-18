@@ -8,6 +8,7 @@
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -38,3 +39,7 @@ In this project, I am taking a break from building my professional portfolio and
 - Website - [Kari Puzzonia](https://www.linkedin.com/in/kari-puzzonia/)
 - GitHub - [@kpuzzonia](https://github.com/kpuzzonia)
 - Instagram - [@codewithkari](https://www.instagram.com/codewithkari/)
+
+## Acknowledgements
+
+- Yoga Meditation Favicon by Vecteezy
