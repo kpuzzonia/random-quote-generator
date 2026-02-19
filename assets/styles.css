@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital,wght@0,400..700;1,400..700&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -23,6 +26,26 @@ body {
     border: 1px solid #736372;
     border-radius: 10px;
     padding: 100px;
+}
+
+#heading {
+    margin-bottom: 40px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+#quote, #author {
+    font-family: 'Baskerville', serif;
+    font-size: 20px;
+}
+
+#quote{ 
+    margin-bottom: 5px;
+}
+
+#author {
+    margin-bottom: 20px;
 }
 
 
