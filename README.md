@@ -29,6 +29,7 @@ In this project, I am taking a break from building my professional portfolio and
 - CSS
 - Flexbox
 - JavaScript
+- API Integration
 
 ### Continued development
 
