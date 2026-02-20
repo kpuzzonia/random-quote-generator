@@ -21,11 +21,13 @@ body {
 }
 
 #quote-app-container {
-    background-color: #DCEEDA;
+    background-color: #E0FFFF;
     text-align: center;
-    border: 1px solid #736372;
+    border: .5px solid grey;
     border-radius: 10px;
     padding: 100px;
+    max-width: 600px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 #heading {
@@ -46,6 +48,15 @@ body {
 
 #author {
     margin-bottom: 20px;
+}
+
+button {
+    padding: 15px;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    background: #FFE0E0;
 }
 
 
