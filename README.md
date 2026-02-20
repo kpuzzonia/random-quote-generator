@@ -16,12 +16,12 @@ In this project, I am taking a break from building my professional portfolio and
 
 ### Screenshot
 
-![](./assets/.png) (UPDATE)
+![](./assets/Screenshot%202026-02-20%20at%204.04.36 PM.png)
 
 ### Links
 
 - Solution URL: [https://github.com/kpuzzonia/random-quote-generator](https://github.com/kpuzzonia/random-quote-generator)
-- Live Site URL: [https://kpuzzonia.github.io/](https://kpuzzonia.github.io/) (UPDATE)
+- Live Site URL: [https://kpuzzonia.github.io/random-quote-generator/](https://kpuzzonia.github.io/random-quote-generator/)
 
 ### Built with
 
@@ -32,7 +32,7 @@ In this project, I am taking a break from building my professional portfolio and
 
 ### Continued development
 
-- TBDs
+- TBD
 
 ## Author
 

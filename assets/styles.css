@@ -59,5 +59,13 @@ button {
     background: #FFE0E0;
 }
 
+/* let's make it responsive! */
+@media (max-width: 768px) {
+    #quote-app-container {
+        padding: 20px;
+        margin: 0 15px;
+    }
+}
+
 
 
